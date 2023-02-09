@@ -1,1 +1,1 @@
-# Feedback form with sql and PHP!
+# Feedback form with MYSQL and PHP!
